@@ -1,0 +1,37 @@
+[{
+  "id":1,
+  "text":"进口食品",
+  "iconCls":"icon-save",
+  "attributes":{   
+            "url":"GoodsShow.jsp"
+        }
+},{
+  "id":2,
+  "text":"地方特产",
+  "iconCls":"icon-save",
+  "attributes":{   
+            "url":"GoodsShow.jsp"
+        }
+},{
+  "id":3,
+  "text":"茗茶",
+  "iconCls":"icon-save",
+  "attributes":{   
+            "url":"GoodsShow.jsp"
+        }
+},{
+  "id":1,
+  "text":"休闲食品",
+  "iconCls":"icon-save",
+  "attributes":{   
+            "url":"GoodsShow.jsp"
+        }
+},{
+  "id":1,
+  "text":"饮料冲调",
+ "iconCls":"icon-save",
+ "attributes":{   
+            "url":"GoodsShow.jsp"
+        }
+}]
+

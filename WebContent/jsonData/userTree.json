@@ -1,0 +1,102 @@
+[{
+  "id":1,
+  "text":"安全设置",
+  "state" : "closed",
+  "children":[
+              {
+                 "id":11,
+                 "text":"修改登录密码",
+                  "attributes":{   
+                        "url":"GoodsShow.jsp"
+                  }
+              },{
+                 "id":12,
+                 "text":"手机绑定",
+                  "attributes":{   
+                        "url":"GoodsShow.jsp"
+                  }
+              },{
+                 "id":13,
+                 "text":"密保问题设置",
+                  "attributes":{   
+                        "url":"GoodsShow.jsp"
+                  }
+              }    
+              ]   
+           
+},{
+  "id":2,
+  "text":"个人资料",
+  "state" : "closed",
+  "children":[
+              {
+                 "id":21,
+                 "text":"收货地址",
+                  "attributes":{   
+                        "url":"GoodsShow.jsp"
+                  }
+              },{
+                 "id":21,
+                 "text":"修改头像、昵称",
+                  "attributes":{   
+                        "url":"GoodsShow.jsp"
+                  }
+              },{
+                 "id":23,
+                 "text":"消息提醒设置",
+                  "attributes":{   
+                        "url":"GoodsShow.jsp"
+                  }
+              },{
+                 "id":24,
+                 "text":"密保设置",
+                  "attributes":{   
+                        "url":"GoodsShow.jsp"
+                  }
+              }      
+              ]   
+},{
+  "id":3,
+  "text":"账号绑定",
+  "state" : "closed",
+  "children":[
+              {
+                 "id":31,
+                 "text":"支付宝绑定",
+                  "attributes":{   
+                        "url":"GoodsShow.jsp"
+                  }
+              },{
+                 "id":32,
+                 "text":"微博绑定",
+                  "attributes":{   
+                        "url":"GoodsShow.jsp"
+                  }
+              },{
+                 "id":33,
+                 "text":"分享绑定",
+                  "attributes":{   
+                        "url":"GoodsShow.jsp"
+                  }
+              }    
+              ] 
+},{
+  "id":4,
+  "text":"已买到宝贝",
+  "attributes":{   
+            "url":"GoodsShow.jsp"
+        }
+},{
+  "id":5,
+  "text":"我的评价",
+ "attributes":{   
+            "url":"GoodsShow.jsp"
+        }
+},{
+  "id":6,
+  "text":"退款维权",
+ "attributes":{   
+            "url":"GoodsShow.jsp"
+        }
+}]
+
